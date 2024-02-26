@@ -10,4 +10,4 @@ author_profile: true
 
 Teaching Assistant
 ====
-* **(40005) Introduction to Computer Architecture**, Imperial College London, Spring Term, 2024
+* **Introduction to Computer Architecture**, Imperial College London, Spring Term, 2024
