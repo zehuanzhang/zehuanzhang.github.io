@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+Internship
+====
+**Research Assistant**, Imperial College London
 
 
 Teaching Assistant
