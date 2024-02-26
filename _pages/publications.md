@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
+redirect_from:
+  - /publications
 ---
 
 {% if site.author.googlescholar %}
@@ -14,3 +15,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
