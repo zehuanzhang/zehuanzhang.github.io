@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siyi Du"
+title: "Zehuan Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,25 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Biomedical Image Analysis Group([BiMedIA](https://biomedia.doc.ic.ac.uk/)), Imperial College London under Prof. [Qin Chen](https://cq615.github.io/), where I work on Medical Imaging and Deep Learning. I received my MASC degree in Electrical and Computer Engineering from the University of British Columbia at 2023, where I was a member at the Biomedical Signal and Image Computing Laboratory ([BiSICL](https://bisicl.ece.ubc.ca/)) and supervised by Prof. [Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/). Besides, I obtained my bachelor degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021.
+I'm a second year PhD student in the Department of Computing at lmperial CollegeLondon,advised by Prof. Wayne Luk. My research interest includes Bayesian Neural Network,hardware acceleration.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-News &#x1F408;
+News!
 ======
-&#x2B50; &ensp; [*Oct-2023*] Our paper (AViT) has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023!
 
-&#x2B50; &ensp; [*Oct-2023*] I joined Imperial College London as a **PhD student** (full scholarship).
+&ensp; 2024/02 One paper on hardware acceleration of Trustworthy Al is accepted by DAC'24!
 
-&#x2B50; &ensp; [*Sep-2023*] I successfully graduated from the University of British Columbia!
+&ensp; 2024/02 One paper is accepted by ISMRM'24!
 
-&#x2B50; &ensp; [*Jul-2023*] Two papers (AViT and Continual-GEN) are **accepted** by the 8th ISIC Workshop @MICCAI2023!!
+&ensp; 2023/04 I joined Imperial College London as a **PhD student**.
 
-&#x2B50; &ensp; [*Jun-2023*] One paper (MDViT) is **accepted** by MICCAI 2023!!
-
-&#x2B50; &ensp; [*May-2023*] Our paper (FairDisCo) has been awarded **the best paper** at the 7th ISIC Workshop @ECCV2022!
-
-&#x2B50; &ensp; [*August-2022*] Our paper (FairDisCo) has been **accepted** by the 7th ISIC Workshop @ECCV2022!
+&ensp; 2023/02 One paper is accepted by ISMRM'23!
 
 
 <!-- A data-driven personal website
