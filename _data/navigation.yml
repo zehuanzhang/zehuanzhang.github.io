@@ -1,18 +1,28 @@
-# main links
+# main links links
 main:
-  - title: "Home"
-    url: index
   - title: "Publications"
-    url: /pages/pub
-  - title: "Experience"
-    url: /pages/exp
-  - title: "Software"
-    url: https://github.com/os-hxfan
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+    url: /publications/
+
+  - title: "Activities"
+    url: /activities/    
+  
+  - title: "Awards"
+    url: /awards/     
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
   #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    
+  - title: "CV"
+    url: /files/siyi_CV_2023.pdf
+
+  - title: "Misc"
+    url: /misc/
+    
+  # - title: "Guide"
+  #   url: /markdown/
