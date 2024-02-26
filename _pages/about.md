@@ -14,13 +14,13 @@ I'm a second year PhD student in the Department of Computing at lmperial College
 
 News!
 ======
-&#x2B50; &ensp; 2024/02  One paper on hardware acceleration of Trustworthy Al is accepted by DAC'24! 
+&ensp; 2024/02  One paper on hardware acceleration of Trustworthy Al is accepted by DAC'24! 
 
-&#x2B50; &ensp; 2024/02  One paper is accepted by ISMRM'24!
+&ensp; 2024/02  One paper is accepted by ISMRM'24!
 
-&#x2B50; &ensp; 2023/04  I joined Imperial College London as a **PhD student**.
+&ensp; 2023/04  I joined Imperial College London as a **PhD student**.
 
-&#x2B50; &ensp; 2023/02  One paper is accepted by ISMRM'23!
+&ensp; 2023/02  One paper is accepted by ISMRM'23!
 
 
 <!-- A data-driven personal website
