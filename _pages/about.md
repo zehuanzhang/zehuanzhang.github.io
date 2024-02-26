@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student in the Department of Computing at lmperial CollegeLondon,advised by Prof. Wayne Luk. My research interest includes Bayesian Neural Network,hardware acceleration.
+I'm a second year PhD student in the Department of Computing at lmperial College London, supervised by [Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk). My research interests focus on hardware system and machine learning. I obtained my Master degree (supervised by [Prof. Qiang Liu](https://dblp.org/pid/61/3234-11.html)) and Bachelor degree from Tianjin University at 2022 and 2019. My current research includes:
+* Bayesian Neural Network
+* Complex-Valued Neural Network
+* Medical Imaging
+* Hardware Acceleration
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
