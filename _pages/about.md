@@ -16,7 +16,7 @@ News!
 ======
 &ensp; 2024/02  One paper on hardware acceleration of Trustworthy Al is accepted by DAC'24! 
 
-2024/02  One paper is accepted by ISMRM'24!
+&ensp; 2024/02  One paper is accepted by ISMRM'24!
 
 &ensp; 2023/04  I joined Imperial College London as a **PhD student**.
 
