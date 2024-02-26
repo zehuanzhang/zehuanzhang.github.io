@@ -1,22 +1,18 @@
-# main links links
+# main links
 main:
+  - title: "Home"
+    url: index
   - title: "Publications"
-    url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
+    url: /pages/pub
+  - title: "Experience"
+    url: /pages/exp
+  - title: "Software"
+    url: https://github.com/os-hxfan
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
