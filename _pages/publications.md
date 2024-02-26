@@ -19,7 +19,11 @@ author_profile: true
 
 
 
-**Fast Uncertainty Estimation of lVlM parametersusing Bayesian Neural Networks** \
+**Acceleration of T2* mapping on an MR Linac using a self-supervised convolutional neural network** \
+Albert Ugwudike, <u>Zehuan Zhang</u>, Wajiha Bano, Alison Tree, Wayne Luk, Andreas Wetschere
+*ISMRM & ISMRT Annual Meeting & Exhibition*, 2024  \
+
+**Fast Uncertainty Estimation of IVIM Parameters using Bayesian Neural Networks** \
 <u>Zehuan Zhang</u>, Matej Genči, Hongxiang Fan, Wayne Luk, and Andreas Wetscherek  \
 *ISMRM & ISMRT Annual Meeting & Exhibition*, 2023  \
 
