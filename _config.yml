@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Zehuan Zhang"
   avatar           : "profile.png"
-  bio              : "PhD Student at Imperial College London"
+  bio              : "PhD Candidate at Imperial College London"
   location         : "London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zsOt8MYAAAAJ&hl=en"
-  email            : #"/files/email.txt"
+  email            : "/files/email.txt"
   researchgate     :  #"https://www.researchgate.net/profile/Siyi-Du-6" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
