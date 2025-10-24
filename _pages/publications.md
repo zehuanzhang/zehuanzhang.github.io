@@ -22,11 +22,11 @@ author_profile: true
 Hao (Mark) Chen, <u>Zehuan Zhang</u>, Wanru Zhao, Nicholas Lane and Hongxiang Fan \
 *Arxiv*, 2024
 
-**Accelerating MRI Uncertainty Estimation with Mask-Based Bayesian Neural Network**\
+**Accelerating MRI Uncertainty Estimation with Mask-Based Bayesian Neural Network** [[Link]](https://ieeexplore.ieee.org/abstract/document/10631106)[[Code]](https://github.com/zehuanzhang/MRI-Uncertainty-Estimation)\
 <u>Zehuan Zhang</u>, Matej Genci, Hongxiang Fan, Andreas Wetscherek and Wayne Luk \
 *ASAP*, 2024
 
-**Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA** \
+**Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA** [[Link]](https://dl.acm.org/doi/abs/10.1145/3649329.3656528?casa_token=u9omtVv5vboAAAAA:Q0uy4Gs2OBsdvRumWAf7fy2NtKHAuNC_ZsfeSIxqBlK5QabmNinlYZcjXBl3ViUikHd4EoUE4Cmpyw)[[Code]](https://github.com/zehuanzhang/Neural_Dropout_Search)\
 <u>Zehuan Zhang</u>, Hongxiang Fan, Hao (Mark) Chen, Lukasz Dudziak and Wayne Luk \
 *DAC*, 2024
 
