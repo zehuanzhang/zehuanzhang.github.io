@@ -28,6 +28,8 @@ News!
 
 &ensp; 2025/06 Happy to serve as a reviewer of Transactions on Reconfigurable Technology and Systems!
 
+&ensp; 2024/05 One paper on hardware acceleration for medical imaging is accepted by ASAP'24!
+
 &ensp; 2024/02 One paper on hardware acceleration of Trustworthy Al is accepted by DAC'24!
 
 &ensp; 2024/02 One paper is accepted by ISMRM'24!
