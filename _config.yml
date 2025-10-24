@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=zsOt8MYAAAAJ&hl=en"
-  email            : "/files/email.txt"
+  email            : zehuan.zhang22@imperial.ac.uk #"/files/email.txt"
   researchgate     :  #"https://www.researchgate.net/profile/Siyi-Du-6" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
