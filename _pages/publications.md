@@ -18,15 +18,15 @@ author_profile: true
 <br/>
 
 
-[**Advancing AI-assisted Hardware Design with Hierarchical Decentralized Training and Personalized Inference-Time Optimization**](https://arxiv.org/abs/2506.00002) \
+**Advancing AI-assisted Hardware Design with Hierarchical Decentralized Training and Personalized Inference-Time Optimization** \
 Hao (Mark) Chen, <u>Zehuan Zhang</u>, Wanru Zhao, Nicholas Lane and Hongxiang Fan \
 *Arxiv*, 2024
 
-[**Accelerating MRI Uncertainty Estimation with Mask-Based Bayesian Neural Network**](https://ieeexplore.ieee.org/abstract/document/10631106) \
+**Accelerating MRI Uncertainty Estimation with Mask-Based Bayesian Neural Network**\
 <u>Zehuan Zhang</u>, Matej Genci, Hongxiang Fan, Andreas Wetscherek and Wayne Luk \
 *ASAP*, 2024
 
-[**Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA**](https://dl.acm.org/doi/abs/10.1145/3649329.3656528?casa_token=ZwOOJQzx7sgAAAAA:WzFLqDshKjyT9i1K8bnS3w7KzgB0OzaEZ0qZzGcOb1QSUUND_kQYqP78-MteKyJCZDbL5wivn-FsGQ) \
+**Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA** \
 <u>Zehuan Zhang</u>, Hongxiang Fan, Hao (Mark) Chen, Lukasz Dudziak and Wayne Luk \
 *DAC*, 2024
 
