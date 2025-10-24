@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student in the Department of Computing at lmperial College London, supervised by [Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk). My research interests focus on hardware system and machine learning. I obtained my Master degree (supervised by [Prof. Qiang Liu](https://dblp.org/pid/61/3234-11.html)) at 2022 and Bachelor degree at 2019 from Tianjin University. My current research includes:
-* Bayesian Neural Network
-* Complex-Valued Neural Network
-* Medical Imaging
-* Hardware Acceleration
+I'm a third year PhD student in the Department of Computing at lmperial College London, supervised by [Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk). My research interests focus on hardware system and machine learning. I obtained my Master degree (supervised by [Prof. Qiang Liu](https://dblp.org/pid/61/3234-11.html)) at 2022 and Bachelor degree at 2019 from Tianjin University. My current research includes:
+
+Hardware System for ML:
+* Accelerator for Trustworthy AI
+* Reconfigurable Hardware for Complex-Valued Neural Network
+* Heterogeneous Acceleration for LLM
+ML for Hardware System
+* Co-Design for Reconfigurable Accelerator
+* LLM-based Code Generation and Optimization
 
 
 
@@ -20,6 +24,8 @@ I'm a second year PhD student in the Department of Computing at lmperial College
 
 News!
 ======
+
+&ensp; 2025/06 Happy to serve as a reviewer of Transactions on Reconfigurable Technology and Systems!
 
 &ensp; 2024/02 One paper on hardware acceleration of Trustworthy Al is accepted by DAC'24!
 
