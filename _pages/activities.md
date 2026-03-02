@@ -17,8 +17,8 @@ author_profile: true
 
 Reviewer
 ====
-* Conference: **FCCM, DAC
-* Journal: **Transactions on Reconfigurable Technology and Systems(TRETS)
+* ** Conference: FCCM, DAC**
+* ** Journal: Transactions on Reconfigurable Technology and Systems(TRETS)**
 
 Teaching Assistant
 ====
