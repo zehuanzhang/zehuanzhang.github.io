@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Reviewer
+====
+* Conference: **FCCM, DAC
+* Journal: **Transactions on Reconfigurable Technology and Systems(TRETS)
+
 Teaching Assistant
 ====
 * **Introduction to Computer Architecture**, Imperial College London, Spring Term, 2024
