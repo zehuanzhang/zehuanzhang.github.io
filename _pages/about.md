@@ -26,6 +26,12 @@ ML for Hardware System
 News!
 ======
 
+&ensp; 2026/02 One paper on hardware acceleration of Trustworthy Al in complex-valued domain is accepted by DAC'26!
+
+&ensp; 2025/11 Happy to serve as a reviewer of FCCM!
+
+&ensp; 2025/11 Happy to serve as a reviewer of DAC!
+
 &ensp; 2025/06 Happy to serve as a reviewer of Transactions on Reconfigurable Technology and Systems!
 
 &ensp; 2024/05 One paper on hardware acceleration for medical imaging is accepted by ASAP'24!
