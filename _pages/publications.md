@@ -17,6 +17,8 @@ author_profile: true
 
 <br/>
 
+For the full publication list, please refer to my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=X4QBfvUAAAAJ).
+
 
 **Advancing AI-assisted Hardware Design with Hierarchical Decentralized Training and Personalized Inference-Time Optimization** \
 Hao (Mark) Chen, <u>Zehuan Zhang</u>, Wanru Zhao, Nicholas Lane and Hongxiang Fan \
