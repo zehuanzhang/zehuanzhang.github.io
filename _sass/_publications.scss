@@ -4,7 +4,7 @@
 
 .publication-note {
   margin: 0 0 1.25rem;
-  color: mix(#000, $muted-text-color, 20%);
+  color: mix(#000, $gray, 20%);
 }
 
 .publication-list {
@@ -50,7 +50,7 @@
 
 .publication-authors,
 .publication-meta {
-  color: $muted-text-color;
+  color: $gray;
   line-height: 1.45;
 }
 
@@ -86,7 +86,7 @@
 }
 
 .publication-year {
-  color: mix(#000, $muted-text-color, 15%);
+  color: mix(#000, $gray, 15%);
   font-family: $sans-serif;
   font-size: 0.95rem;
   font-weight: 700;
