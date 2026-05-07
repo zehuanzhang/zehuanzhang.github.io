@@ -8,41 +8,57 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student in the Department of Computing at lmperial College London, supervised by [Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk). My research interests focus on hardware system and machine learning. I obtained my Master degree (supervised by [Prof. Qiang Liu](https://dblp.org/pid/61/3234-11.html)) at 2022 and Bachelor degree at 2019 from Tianjin University. My current research includes:
+I'm a third year PhD student in the Department of Computing at Imperial College London, supervised by [Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk). I obtained my Master degree (supervised by [Prof. Qiang Liu](https://dblp.org/pid/61/3234-11.html)) in 2022 and Bachelor degree in 2019 from Tianjin University.
+My research focuses on **algorithm-hardware co-design, architecture design, design automation for trustworthy AI, and LLM acceleration**.
 
-Hardware System for ML:
+I am currently looking for **internship and full-time opportunities** in hardware acceleration and AI systems in the UK/US.
+
+
+
+
+
+
+<!-- Hardware System for ML:
 * Accelerator for Trustworthy AI
 * Reconfigurable Hardware for Complex-Valued Neural Network
 * Heterogeneous Acceleration for LLM
 
 ML for Hardware System
 * Co-Design for Reconfigurable Accelerator
-* LLM-based Code Generation and Optimization
+* LLM-based Code Generation and Optimization -->
 
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
+
+
 News!
 ======
 
-&ensp; 2026/02 One paper on hardware acceleration of Trustworthy Al in complex-valued domain is accepted by DAC'26!
+📄 *2026/02*: Our recent work on algorithm-hardware co-design for trustworthy AI in the complex-valued domain has been accepted by DAC'26.
 
-&ensp; 2025/11 Happy to serve as a reviewer of FCCM!
+  - The work introduces Bayesian complex-valued neural networks and FPGA-oriented acceleration for efficient complex-valued uncertainty estimation.
 
-&ensp; 2025/11 Happy to serve as a reviewer of DAC!
+📝 *2025/11*: I am invited to serve as a reviewer for FCCM'26.
 
-&ensp; 2025/06 Happy to serve as a reviewer of Transactions on Reconfigurable Technology and Systems!
+📝 *2025/11*: I am invited to serve as a reviewer for DAC'26.
 
-&ensp; 2024/05 One paper on hardware acceleration for medical imaging is accepted by ASAP'24!
+📝 *2025/06*: I am invited to serve as a reviewer for ACM Transactions on Reconfigurable Technology and Systems.
 
-&ensp; 2024/02 One paper on hardware acceleration of Trustworthy Al is accepted by DAC'24!
+📄 *2024/05*: Our work on accelerating MRI uncertainty estimation with mask-based Bayesian neural networks has been accepted by ASAP'24.
 
-&ensp; 2024/02 One paper is accepted by ISMRM'24!
+  - The work develops a software-hardware co-design flow and an FPGA accelerator for efficient uncertainty estimation in IVIM MRI.
 
-&ensp; 2023/04 I joined Imperial College London as a **PhD student**.
+📄 *2024/02*: Our work on hardware-aware neural dropout search for reliable uncertainty prediction on FPGA has been accepted by DAC'24.
 
-&ensp; 2023/02 One paper is accepted by ISMRM'23!
+  - The work searches layer-wise dropout configurations under accuracy, calibration, uncertainty, and hardware-cost objectives.
+
+📄 *2024/02*: One paper has been accepted by ISMRM'24.
+
+🎓 *2023/04*: I joined Imperial College London as a PhD student in the Department of Computing.
+
+📄 *2023/02*: One paper has been accepted by ISMRM'23.
 
 
 <!-- A data-driven personal website
